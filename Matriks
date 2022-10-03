@@ -1,0 +1,3 @@
+print("Luthfi Kristianto")
+nim = 20210801240
+print(nim)
